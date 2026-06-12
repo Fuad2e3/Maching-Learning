@@ -1,15 +1,15 @@
 <div align="center">
 
 # 🛡️ Bangla SMS Spam Detection
-### The Ultimate AI-Powered Smart Gardening Ecosystem
+### AI-Powered Bangla SMS Spam Detection System
 
-[![Platform](https://img.shields.io/badge/Platform-Android-43d07d?style=for-the-badge&logo=android)](https://github.com/Fuad2e3/Maching-Learning)
-[![Language](https://img.shields.io/badge/Language-Java-f89820?style=for-the-badge&logo=java)](https://github.com/Fuad2e3/Maching-Learning)
-[![Backend](https://img.shields.io/badge/Backend-Firebase-ffca28?style=for-the-badge&logo=firebase)](https://github.com/Fuad2e3/Maching-Learning)
-[![AI](https://img.shields.io/badge/AI-Gemini-7b61ff?style=for-the-badge&logo=google-gemini)](https://github.com/Fuad2e3/Maching-Learning)
+[![Language](https://img.shields.io/badge/Language-Python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Tool](https://img.shields.io/badge/Tool-Jupyter-f37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Library](https://img.shields.io/badge/Library-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Library](https://img.shields.io/badge/Library-Scikit--Learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
-**Empowering gardeners with cutting-edge AI, a thriving marketplace, and a global community.**
+**Filtering unwanted Bangla messages with high precision using Machine Learning.**
 
 </div>
 
@@ -17,14 +17,14 @@
 
 ## 📖 Overview
 
-This project focuses on the development of an intelligent system for detecting spam in Bangla SMS messages. Using advanced machine learning techniques, we aim to provide a robust solution to filter unwanted messages, enhancing communication security and user experience for Bangla-speaking communities.
+This project focuses on the development of an intelligent system for detecting spam in Bangla SMS messages. Using advanced machine learning techniques, we provide a robust solution to filter unwanted messages, enhancing communication security and user experience for Bangla-speaking communities.
 
 ## 🚀 Key Features
 
 - **Data Preprocessing**: Comprehensive cleaning, tokenization, and stemming of Bangla text.
-- **Model Training**: Implementation of various machine learning algorithms tailored for Bangla linguistics.
+- **Model Training**: Implementation of various machine learning algorithms (like Naive Bayes) tailored for Bangla linguistics.
 - **Performance Comparison**: Rigorous evaluation and comparison of different models to find the most accurate detector.
-- **AI-Powered**: Leveraging Google's Gemini and advanced ML to ensure high precision.
+- **AI-Powered Precision**: Leveraging TF-IDF vectorization and advanced ML to ensure high accuracy.
 
 ## 📁 Project Structure
 
@@ -51,7 +51,7 @@ The project utilizes a Bangla SMS Spam Dataset:
 ### Prerequisites
 - Python 3.x
 - Jupyter Notebook or Google Colab
-- Libraries: `numpy`, `pandas`, `sklearn`, `nltk`
+- Libraries: `numpy`, `pandas`, `scikit-learn`, `nltk`
 
 ### Installation
 1. Clone the repository:
